@@ -17,7 +17,7 @@ doPCD = 1
 
 [MODEL_PARAMETER_SETTING]
 # number of factors (columns of visible-factor matrix)
-num_fac = 11
+num_fac = 10
 # number of covariance hidden units
 num_hid_cov = 11
 # number of mean hidden units
